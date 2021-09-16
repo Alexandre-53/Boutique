@@ -1,0 +1,23 @@
+{
+  "name": "Piscine_MERN_Jour_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.epitech.eu:/alexandre.blanche@epitech.eu/Piscine_MERN_Jour_03"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.5"
+  }
+}
